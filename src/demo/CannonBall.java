@@ -1,4 +1,4 @@
-package test;
+package demo;
 
 import com.jme3.ai.agents.Agent;
 import com.jme3.collision.CollisionResults;

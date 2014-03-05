@@ -10,7 +10,7 @@ import com.jme3.scene.Spatial;
 import com.jme3.ai.agents.events.AgentSeenEvent;
 import com.jme3.ai.agents.events.AgentSeenEventListener;
 import com.jme3.ai.agents.util.Game;
-import test.Model;
+import demo.Model;
 
 /**
  * Example of move behaviour for NPC.

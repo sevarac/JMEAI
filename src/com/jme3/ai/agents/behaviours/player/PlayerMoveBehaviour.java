@@ -9,7 +9,7 @@ import com.jme3.renderer.RenderManager;
 import com.jme3.renderer.ViewPort;
 import com.jme3.scene.Spatial;
 import com.jme3.ai.agents.util.Game;
-import test.Model;
+import demo.Model;
 
 /**
  * Example of moving behaviour for player.

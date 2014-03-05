@@ -1,4 +1,4 @@
-package test;
+package demo;
 
 /**
  * Example for using model to add it to agent. Yes, I could only add float to 

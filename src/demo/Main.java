@@ -1,4 +1,4 @@
-package test;
+package demo;
 
 import com.jme3.ai.agents.util.Game;
 import com.jme3.ai.agents.Agent;
@@ -26,7 +26,7 @@ public class Main extends SimpleApplication {
     private float gameFinishCountDown = 5f;
     //game stats
     private final float attackRange = 40f;
-    private final float turnSpeed = 25f;
+    private final float turnSpeed = 45f;
     private final float laserDamage = 5f;
     private final float terrainSize = 40;
 

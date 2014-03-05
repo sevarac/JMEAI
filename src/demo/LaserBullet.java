@@ -1,4 +1,4 @@
-package test;
+package demo;
 
 import com.jme3.ai.agents.util.Game;
 import com.jme3.scene.Spatial;
